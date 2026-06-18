@@ -53,7 +53,7 @@
     "jsonwebtoken": "^9.0.2",
     "module-alias": "^2.2.3",
     "morgan": "^1.10.0",
-    "multer": "^1.4.5-lts.2",
+    "multer": "^2.2.0",
     "nodemailer": "^8.0.5",
     "passport": "^0.7.0",
     "passport-facebook": "^3.0.0",
